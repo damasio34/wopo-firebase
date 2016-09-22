@@ -1,0 +1,26 @@
+{
+  "name": "wopo-firebase",
+  "version": "0.1.0",
+  "description": "Framework com serviços básicos do firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damasio34/wopo-firebase.git"
+  },
+  "keywords": [
+    "wopo",
+    "firebase"
+  ],
+  "author": "Darlan Damasio <darlan@damasio34.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damasio34/wopo-firebase/issues"
+  },
+  "homepage": "https://github.com/damasio34/wopo-firebase#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}

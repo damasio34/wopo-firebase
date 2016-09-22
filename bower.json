@@ -1,0 +1,26 @@
+{
+  "name": "wopo-firebase",
+  "description": "Framework com serviços básicos do firebase",
+  "main": "index.js",
+  "authors": [
+    "Darlan Damasio <darlan@damasio34.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "wopo",
+    "firebase"
+  ],
+  "homepage": "https://github.com/damasio34/wopo-firebase",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "wopo": "^0.1.6",
+    "angularfire": "^2.0.2"
+  }
+}
